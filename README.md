@@ -16,3 +16,11 @@
     <li>Laravel api with vue js</li>
     <li>Vue Router</li>
 </ul>
+
+<h4>To get start</h4>
+<ol>
+    <li>php artisan migrate</li>
+    <li>npm install</li>
+    <li>php artisan serve</li>
+    <li>npm run watch</li>
+</ol>
