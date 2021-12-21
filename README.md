@@ -17,7 +17,7 @@
     <li>Vue Router</li>
 </ul>
 
-<h4>To get start</h4>
+<h1>To get start</h1>
 <ol>
     <li>php artisan migrate</li>
     <li>npm install</li>
